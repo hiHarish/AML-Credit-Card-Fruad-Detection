@@ -56,6 +56,9 @@ The dashboard provides actionable insights into fraud patterns, risk levels, and
 
 ## 📈 Dashboard Features
 
+<img width="1282" height="718" alt="Screenshot 2026-02-24 030408" src="https://github.com/user-attachments/assets/e660fea1-820a-47cb-a548-97927aacd377" />
+
+
 ### Executive Summary
 
 * Total Transactions
