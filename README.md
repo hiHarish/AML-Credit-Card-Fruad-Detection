@@ -110,7 +110,7 @@ AML-CreditCard-Fraud-Detection/
 │
 ├──fraud_analysis.xlsx
 │
-├──  fraud_queries.sql
+├──  fraud.sql
 │
 ├──  AML_Fraud_Dashboard.pbix
 │
